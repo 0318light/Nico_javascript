@@ -24,6 +24,8 @@ Nico_javascript/
 └── 📄 README.md
 ```
 
+---
+
 ## 📝 파일별 역할
 
 | 파일명 | 역할 및 설명 |
@@ -32,7 +34,7 @@ Nico_javascript/
 | **`style.css`** | 배경색 및 요소들의 디자인을 담당합니다. |
 | **`app.js`** | 브라우저 콘솔 출력, 사용자 이벤트 처리, 시계/날씨/투두리스트 등의 로직을 처리합니다. |
 
-<br/>
+---
 
 ## 🎯 학습 목표
 
@@ -41,5 +43,3 @@ Nico_javascript/
 - [ ] **DOM 조작**: HTML 요소 선택 및 이벤트 리스너(Event Listener) 이해
 - [ ] **데이터 persistence**: LocalStorage를 활용한 데이터 저장 (유저 이름, Todo)
 - [ ] **API 활용**: OpenWeather API를 활용한 실시간 날씨 및 위치 정보 가져오기
-
----
