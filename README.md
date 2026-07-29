@@ -23,6 +23,8 @@ Nico_javascript/
 │   └── app.js       # 자바스크립트 스크립트 파일
 └── README.md
 
+---
+
 📝 파일별 역할
 index.html: CSS(style.css)와 JS(app.js)를 불러오고, Momentum 앱의 UI 틀을 형성합니다.
 
