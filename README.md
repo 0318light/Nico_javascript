@@ -23,3 +23,23 @@ Nico_javascript/
 │   └── 📜 app.js     # 자바스크립트 스크립트 파일
 └── 📄 README.md
 ```
+
+## 📝 파일별 역할
+
+| 파일명 | 역할 및 설명 |
+| :--- | :--- |
+| **`index.html`** | CSS(`style.css`)와 JS(`app.js`)를 불러오고, Momentum 앱의 UI 틀을 형성합니다. |
+| **`style.css`** | 배경색 및 요소들의 디자인을 담당합니다. |
+| **`app.js`** | 브라우저 콘솔 출력, 사용자 이벤트 처리, 시계/날씨/투두리스트 등의 로직을 처리합니다. |
+
+<br/>
+
+## 🎯 학습 목표
+
+- [x] **HTML, CSS, JS 연동 기초**: `script`, `link` 태그 활용법 이해
+- [ ] **JavaScript 기본기**: 변수, 함수, 조건문 다루기
+- [ ] **DOM 조작**: HTML 요소 선택 및 이벤트 리스너(Event Listener) 이해
+- [ ] **데이터 persistence**: LocalStorage를 활용한 데이터 저장 (유저 이름, Todo)
+- [ ] **API 활용**: OpenWeather API를 활용한 실시간 날씨 및 위치 정보 가져오기
+
+---
