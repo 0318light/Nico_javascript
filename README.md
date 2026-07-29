@@ -17,8 +17,9 @@ HTML, CSS, Pure JavaScript만을 사용하여 기본 구조부터 인터랙티�
 
 ```text
 Nico_javascript/
-├── chapter 01/
-│   ├── index.html   # 기본 메인 HTML 문서
-│   ├── style.css    # 웹 스타일시트
-│   └── app.js       # 자바스크립트 스크립트 파일
-└── README.md
+├── 📁 chapter 01/
+│   ├── 📄 index.html # 기본 메인 HTML 문서
+│   ├── 🎨 style.css  # 웹 스타일시트
+│   └── 📜 app.js     # 자바스크립트 스크립트 파일
+└── 📄 README.md
+```
