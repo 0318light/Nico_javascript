@@ -22,6 +22,3 @@ Nico_javascript/
 │   ├── style.css    # 웹 스타일시트
 │   └── app.js       # 자바스크립트 스크립트 파일
 └── README.md
-
----
-
